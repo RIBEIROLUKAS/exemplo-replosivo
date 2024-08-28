@@ -1,1 +1,1 @@
-# exemplo-replosivo
+# exemplo-responsivo
